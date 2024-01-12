@@ -1,0 +1,9 @@
+{
+  "perguntas": [
+    {"id": 1, "texto": "Qual é a capital da França?", "tipo": "aberta"},
+    {"id": 2, "texto": "Quem pintou a 'Mona Lisa'?", "tipo": "aberta"},
+    {"id": 3, "texto": "Em que ano o homem pisou na Lua pela primeira vez?", "tipo": "aberta"},
+    {"id": 4, "texto": "Qual é o resultado de 3 + 2?", "tipo": "aberta"},
+    {"id": 5, "texto": "Java é uma linguagem de programação. (verdadeiro/falso)", "tipo": "verdadeiro_falso"}
+  ]
+}
